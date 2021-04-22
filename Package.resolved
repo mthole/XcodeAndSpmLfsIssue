@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Prism",
+        "repositoryURL": "https://github.com/doordash/design-language-system-ios",
+        "state": {
+          "branch": "mthole/spm-test",
+          "revision": "82b160f3c90b132790e72d23ba72691f34188c9f",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
